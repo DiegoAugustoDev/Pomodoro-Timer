@@ -14,7 +14,6 @@ start.addEventListener("click", function(){
 
 function updateCountdown(){
     if(time < 0){
-        alert("Acabou!")
         document.getElementById("sound").play()
         clearInterval(check)
     }
