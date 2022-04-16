@@ -19,7 +19,6 @@ body{
 #container{
     width: 35rem;
     height: 22rem;
-    background-color: #99bbffBB;
     display: flex;
     flex-direction: column;
     align-items: center;
